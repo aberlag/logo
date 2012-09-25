@@ -14,7 +14,7 @@
    id="svg4479"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="poster.svg"
-   inkscape:export-filename="/home/sam/dev/aberlag/logo/logo.png"
+   inkscape:export-filename="/home/sam/dev/aberlag/logo/poster2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +54,7 @@
      inkscape:current-layer="svg4479" />
   <g
      id="g5739"
-     transform="matrix(0.75,0,0,0.75,57.637795,-142.43406)">
+     transform="matrix(0.75,0,0,0.75,57.637795,-150.23775)">
     <path
        inkscape:connector-curvature="0"
        id="path4483"
@@ -362,48 +362,48 @@
        style="fill:#0d0906" />
   </g>
   <g
-     id="g3159"
-     transform="translate(-8.5066128e-6,0)">
+     id="g3175"
+     transform="translate(8.660388e-7,-0.28271434)">
     <text
        sodipodi:linespacing="100%"
        id="text3051"
-       y="666.71887"
-       x="297.6138"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       y="690.64075"
+       x="297.60248"
+       style="font-size:47.10847092px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        xml:space="preserve"><tspan
          id="tspan3110"
-         style="font-size:102.40000153px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold"
-         y="666.71887"
-         x="297.6138"
+         style="font-size:150.74710083px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold"
+         y="690.64075"
+         x="297.60248"
          sodipodi:role="line">LIVE ACTION</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text3051-2"
-       y="569.81647"
-       x="299.2178"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       y="569.65112"
+       x="299.53668"
+       style="font-size:38.45845795px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        xml:space="preserve"><tspan
          id="tspan3100"
-         style="font-size:102.40000153px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold"
-         y="569.81647"
-         x="299.2178"
+         style="font-size:123.06706238px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold"
+         y="569.65112"
+         x="299.53668"
          sodipodi:role="line">ABERYSTWYTH</tspan><tspan
          id="tspan3104"
-         style="font-size:102.40000153px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold"
-         y="672.21649"
-         x="299.2178"
+         style="font-size:123.06706238px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold"
+         y="692.7182"
+         x="299.53668"
          sodipodi:role="line" /></text>
     <text
        sodipodi:linespacing="100%"
        id="text3051-6"
-       y="763.62128"
-       x="296.2962"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       y="779.66742"
+       x="296.23029"
+       style="font-size:33.57194901px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
        xml:space="preserve"><tspan
-         style="font-size:102.40000153px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold"
+         style="font-size:107.43024445px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:League Gothic;-inkscape-font-specification:League Gothic Bold"
          id="tspan3055-5"
-         y="763.62128"
-         x="296.2962"
+         y="779.66742"
+         x="296.23029"
          sodipodi:role="line">GAMING SOCIETY</tspan></text>
   </g>
   <text
@@ -422,22 +422,22 @@
      xml:space="preserve"
      style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
      x="407.48605"
-     y="805.65649"
+     y="813.46014"
      id="text3118-3"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        x="407.48605"
-       y="805.65649"
+       y="813.46014"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:League Gothic;-inkscape-font-specification:League Gothic"
        id="tspan3153">www.aberlag.com | facebook.com/groups/aberlag</tspan><tspan
        sodipodi:role="line"
        x="407.48605"
-       y="825.65649"
+       y="833.46014"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:League Gothic;-inkscape-font-specification:League Gothic"
        id="tspan3157" /><tspan
        sodipodi:role="line"
        x="407.48605"
-       y="845.65649"
+       y="853.46014"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:League Gothic;-inkscape-font-specification:League Gothic"
        id="tspan3151" /></text>
 </svg>
