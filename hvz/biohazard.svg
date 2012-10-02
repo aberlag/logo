@@ -14,7 +14,7 @@
    id="svg2"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="biohazard.svg"
-   inkscape:export-filename="/home/sam/dev/aberlag/logo/biohazard.png"
+   inkscape:export-filename="/home/sam/dev/aberlag/logo/hvz/biohazard.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -44,7 +44,7 @@
      showgrid="false"
      inkscape:zoom="0.55"
      inkscape:cx="632.19835"
-     inkscape:cy="471.24869"
+     inkscape:cy="543.97596"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,6 +56,11 @@
        id="p"
        transform="matrix(10,0,0,-10,260,260)"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.88299286;stroke-opacity:1"
+       d="M 499.99998,849.0585 C 307.22029,849.0585 150.94149,692.77968 150.94149,500 c 0,-192.77969 156.2788,-349.0585 349.05849,-349.0585 192.7797,0 349.05852,156.27881 349.05852,349.0585 0,192.77968 -156.27882,349.0585 -349.05852,349.0585 z"
+       id="path3878-5"
+       inkscape:connector-curvature="0" />
   </defs>
   <path
      sodipodi:type="inkscape:offset"
@@ -64,11 +69,11 @@
      style="fill:none;stroke:none;stroke-opacity:1"
      id="path3849"
      d="m 494.53125,134.53125 c -203.84328,0 -369.0625,176.66107 -369.0625,394.5625 0,217.90143 165.21922,394.53125 369.0625,394.53125 203.84328,0 369.09375,-176.62982 369.09375,-394.53125 0,-217.90143 -165.25047,-394.5625 -369.09375,-394.5625 z"
-     transform="matrix(1.1418931,0,0,1.0682226,-64.719664,-65.17321)" />
+     transform="matrix(1.2000243,0,0,1.1226034,-93.468267,-93.944902)" />
   <g
      id="g3016-6"
      transform="matrix(-1.0193132,0,0,-1.0193132,765.11225,764.85485)"
-     style="fill:none">
+     style="fill:none;stroke:none;stroke-opacity:1">
     <use
        id="use7-4"
        xlink:href="#p"
@@ -76,7 +81,7 @@
        y="0"
        width="520"
        height="520"
-       style="fill:none" />
+       style="fill:none;stroke:none;stroke-opacity:1" />
     <use
        id="use9-8"
        transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,615.1666,164.8334)"
@@ -85,7 +90,7 @@
        y="0"
        width="520"
        height="520"
-       style="fill:none" />
+       style="fill:none;stroke:none;stroke-opacity:1" />
     <use
        id="use11-3"
        transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,164.8334,615.1666)"
@@ -94,12 +99,12 @@
        y="0"
        width="520"
        height="520"
-       style="fill:none" />
+       style="fill:none;stroke:none;stroke-opacity:1" />
   </g>
   <g
      id="g3016"
      transform="matrix(1.0193132,0,0,1.0193132,234.88775,235.14515)"
-     style="fill:#800000">
+     style="fill:#800000;stroke:none;stroke-opacity:1">
     <use
        id="use7"
        xlink:href="#p"
@@ -107,7 +112,7 @@
        y="0"
        width="520"
        height="520"
-       style="fill:#800000" />
+       style="fill:#800000;stroke:none;stroke-opacity:1" />
     <use
        id="use9"
        transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,615.1666,164.8334)"
@@ -116,7 +121,7 @@
        y="0"
        width="520"
        height="520"
-       style="fill:#800000" />
+       style="fill:#800000;stroke:none;stroke-opacity:1" />
     <use
        id="use11"
        transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,164.8334,615.1666)"
@@ -125,26 +130,28 @@
        y="0"
        width="520"
        height="520"
-       style="fill:#800000" />
+       style="fill:#800000;stroke:none;stroke-opacity:1" />
   </g>
   <text
      xml:space="preserve"
-     style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+     style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
      id="text3799-2"
      sodipodi:linespacing="125%"><textPath
        xlink:href="#path3849"
        startOffset="50%"
        id="textPath3851"><tspan
-   id="tspan3801-3">RESPONSE TEAM</tspan></textPath></text>
+   id="tspan3801-3"
+   style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;stroke:none;stroke-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">RESPONSE TEAM</tspan></textPath></text>
   <text
      xml:space="preserve"
-     style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+     style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;stroke-opacity:1"
      id="text3799-5"
      sodipodi:linespacing="125%"><textPath
        xlink:href="#path3878"
        startOffset="50%"
        id="textPath3882"><tspan
-   id="tspan3801-2">ZOMBIE OUTBREAK</tspan></textPath></text>
+   id="tspan3801-2"
+   style="-inkscape-font-specification:Ubuntu Bold;font-family:Ubuntu;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:128px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:125%;stroke:none;stroke-opacity:1">ZOMBIE OUTBREAK</tspan></textPath></text>
   <path
      style="fill:none;stroke:none;stroke-width:1.88299286000000010;stroke-opacity:1"
      d="M 499.99998,849.0585 C 307.22029,849.0585 150.94149,692.77968 150.94149,500 c 0,-192.77969 156.2788,-349.0585 349.05849,-349.0585 192.7797,0 349.05852,156.27881 349.05852,349.0585 0,192.77968 -156.27882,349.0585 -349.05852,349.0585 z"
