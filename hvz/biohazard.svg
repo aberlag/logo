@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,7 +44,7 @@
      showgrid="false"
      inkscape:zoom="0.55"
      inkscape:cx="632.19835"
-     inkscape:cy="618.48485"
+     inkscape:cy="473.0303"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -61,6 +61,123 @@
        d="M 499.99998,849.0585 C 307.22029,849.0585 150.94149,692.77968 150.94149,500 c 0,-192.77969 156.2788,-349.0585 349.05849,-349.0585 192.7797,0 349.05852,156.27881 349.05852,349.0585 0,192.77968 -156.27882,349.0585 -349.05852,349.0585 z"
        id="path3878-5"
        inkscape:connector-curvature="0" />
+    <filter
+       id="filter3015"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3017"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset3019"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite3021"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood3023"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend3025"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite3027"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter3029"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3031"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset3033"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite3035"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood3037"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend3039"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite3041"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter3043"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3045"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset3047"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite3049"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood3051"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend3053"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite3055"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
   </defs>
   <path
      sodipodi:type="inkscape:offset"
@@ -104,7 +221,7 @@
   <g
      id="g3016"
      transform="matrix(1.2227313,0,0,1.2227313,181.98092,180.85326)"
-     style="fill:#aa0000;stroke:none">
+     style="fill:#aa0000;stroke:none;filter:url(#filter3015)">
     <use
        id="use7"
        xlink:href="#p"
@@ -134,7 +251,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#550000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+     style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#550000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;filter:url(#filter3029)"
      id="text3799-2"
      sodipodi:linespacing="125%"
      transform="translate(-4.8906245e-7,-1.4364172)"><textPath
@@ -145,7 +262,7 @@
    style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#550000;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">RESPONSE TEAM</tspan></textPath></text>
   <text
      xml:space="preserve"
-     style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#550000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+     style="font-size:128px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#550000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold;filter:url(#filter3043)"
      id="text3799-5"
      sodipodi:linespacing="125%"
      transform="translate(-4.8906245e-7,-1.4364172)"><textPath
