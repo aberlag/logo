@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   viewBox="0 0 640 640"
+   version="1.1"
+   id="svg4479"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="logo-unoffical.svg"
+   inkscape:export-filename="/home/sam/dev/aberlag/logo/logo-unoffical.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata4629">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4627">
+    <filter
+       id="filter3042"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3044"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3046"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3048"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3050"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3052"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3054"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3056"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3058"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3060"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3062"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3064"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3066"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3068"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3070"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3072"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3074"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3076"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3078"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3080"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3082"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3084"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3086"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3088"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3090"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3092"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3094"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3096"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3098"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3100"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3102"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3104"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3106"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3108"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3110"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3112"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3114"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3116"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3118"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3120"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3122"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3124"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3126"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3128"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3130"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3132"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3134"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3136"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3138"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3140"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3142"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3144"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3146"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3148"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3150"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3152"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3154"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3156"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3158"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3160"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3162"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3164"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3166"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3168"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3170"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3172"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3174"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3176"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3178"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3180"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3182"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3184"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3186"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3188"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3190"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3192"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3194"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3196"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3198"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3200"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3202"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3204"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3206"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3208"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3210"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3212"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3214"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3216"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3218"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3220"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3222"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3224"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3226"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3228"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3230"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3232"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3234"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3236"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3238"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3240"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3242"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3244"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3246"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3248"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3250"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3252"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3254"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3256"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3258"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3260"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3262"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3264"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3266"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3268"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3270"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3272"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3274"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3276"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3278"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3280"
+         type="saturate"
+         values="0" />
+    </filter>
+    <filter
+       id="filter3282"
+       inkscape:label="Desaturate"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in shades of gray by reducing saturation to zero"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix3284"
+         type="saturate"
+         values="0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1362"
+     inkscape:window-height="753"
+     id="namedview4625"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:zoom="0.6875"
+     inkscape:cx="400"
+     inkscape:cy="414.61811"
+     inkscape:window-x="0"
+     inkscape:window-y="15"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4479" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3282)"
+     d="M 397.96875 38.75 C 393.73125 45.05 389.09375 51.14375 385.84375 58.03125 C 377.26875 75.49375 372.6375 94.64375 370 113.84375 C 368.775 122.96875 367.39375 132.10625 367.40625 141.34375 C 367.34375 167.74375 367.7625 194.1625 367.25 220.5625 C 349.15 226.85 332.80625 238.5125 321.90625 254.375 C 303.41875 246.4625 285.24375 237.84375 266.90625 229.59375 C 252.73125 222.64375 237.175 217.91875 224.875 207.65625 C 162.4375 161.70625 99.975 115.80625 37.5 69.90625 C 31.3875 65.46875 25.725 60.2875 18.75 57.1875 C 19.775 61.5875 22.375 65.325 24.5 69.25 C 42.9125 102.4 62.0375 135.18125 80.4375 168.34375 C 82 171.44375 85 173.3625 88.125 174.625 C 121.45 189.075 154.6625 203.76875 188 218.21875 C 203.125 224.23125 216.19375 234.1625 230.21875 242.25 C 241.76875 249.4625 253.575 256.21875 265.0625 263.53125 C 267.225 264.99375 269.8625 266.4 270.625 269.125 C 272.2625 273.9875 270.40625 279.05 269.09375 283.75 C 255.81875 279.2875 242.525 274.8625 229.25 270.4375 C 221.05 267.675 212.65 265.3625 204.9375 261.375 C 193.9625 255.6625 182.7 250.53125 171.9375 244.40625 C 161.1 238.34375 149.6625 233.4125 138.8125 227.375 C 126.075 220.2375 112.78125 214.1375 99.84375 207.375 C 112.80625 231.525 126.56875 255.225 139.78125 279.25 C 141.31875 282.8375 145.59375 282.93125 148.90625 283.53125 C 169.28125 286.11875 189.525 289.5375 209.875 292.25 C 214.85 292.8625 219.7875 293.9125 224.5 295.625 C 241.425 301.8625 258.1375 308.6125 275.125 314.6875 C 283.15 316.6875 283.1875 326.4125 286.25 332.625 C 280.7875 336.725 275.275 343.5375 267.625 341.75 C 248.4125 338.4875 229.15 335.5375 209.9375 332.375 C 192.275 329.925 175.24375 324.24375 158.65625 317.90625 C 160.03125 323.20625 164.63125 326.70625 167.46875 331.21875 C 176.55625 344.34375 186.4625 356.8875 195.3125 370.1875 C 187.4375 364.6625 179.475 359.05 173 351.875 C 167.3125 345 159.0375 341.05625 152.875 334.65625 C 148.3625 329.81875 142.4 326.83125 136.3125 324.46875 C 132.5125 328.00625 129.275 332.0875 125.875 336 C 123.3375 339.35 118.7375 338.44375 115.125 339.34375 C 112.075 339.66875 109.91875 342.01875 107.84375 344.03125 C 104.46875 347.49375 100.80625 351.0125 99.15625 355.6875 C 97.66875 359.55 97.4125 363.99375 94.75 367.34375 C 89.7375 373.91875 83.8 379.7375 78.625 386.1875 C 75.925 389.3625 76.5625 393.7625 76.0625 397.625 C 75.65 404.4375 71.33125 410.0375 68.84375 416.1875 C 65.98125 423.3 60.35625 429.48125 59.84375 437.40625 C 59.30625 445.39375 65.6625 451.6375 72.0625 455.3125 C 76.85 458.275 82.4875 455.9625 87.375 454.5625 C 110.55 472.225 132.21875 491.73125 154.65625 510.28125 C 160.31875 515.18125 166.28125 519.71875 172.53125 523.84375 C 175.69375 525.68125 176.30625 529.50625 177.65625 532.59375 C 179.05625 536.58125 182.125 539.7625 185.6875 541.9375 C 191.575 545.3875 198.81875 540.2625 204.65625 543.9375 C 209.58125 546.725 214.6125 549.3375 219.875 551.4375 C 232.0875 556.325 238.18125 569.2375 249.28125 575.75 C 257.31875 580.7 266.075 585.65625 271.0625 593.96875 C 272.85 600.55625 264.61875 603.39375 262.40625 608.65625 C 258.88125 616.58125 266.075 624.275 264.4375 632.3125 C 262.8625 637.55 258.475 641.225 256.125 646.0625 C 254.2875 651.0875 255.43125 657.2875 251.59375 661.5 C 247.28125 665.075 239.2375 662.1625 236.6875 668.1875 C 234.85 676.1625 239.4625 683.7125 241.4375 691.25 C 242.5875 696.9125 248.83125 698.93125 253.90625 699.21875 C 258.48125 698.98125 262.875 697.19375 267.5 697.40625 C 277.9375 697.65625 288.3625 697.69375 298.8125 697.40625 C 302.4875 697.23125 306.34375 697.35 309.78125 695.8125 C 314.39375 693.7625 317.8375 689.875 321.0625 686.125 C 323.15 683.625 325.46875 680.98125 325.78125 677.59375 C 326.96875 665.83125 330.55625 654.35 330.15625 642.4375 C 333.81875 642.925 337.49375 643.79375 341.21875 643.46875 C 344.56875 640.66875 347.0625 636.9125 350.75 634.5 C 359.55 628.625 370.85 627.44375 381.0625 629.46875 C 389.075 631.39375 393.975 638.525 399.3125 644.1875 C 405.4125 638.325 410.58125 629.25625 419.96875 628.84375 C 427.35625 629.29375 434.8375 630.25625 441.8125 632.84375 C 446.5125 634.48125 450 638.15625 453.5625 641.46875 C 457.525 645.59375 463.68125 642.65 468.59375 642.4375 C 468.24375 654.3375 471.70625 665.84375 472.96875 677.59375 C 473.23125 681.33125 476 684.08125 478.3125 686.78125 C 481.2875 690.08125 484.18125 693.8125 488.46875 695.5 C 496.06875 698.7 504.48125 697.075 512.46875 697.625 C 522.10625 698.3125 531.94375 696.1375 541.40625 698.8125 C 547.30625 700 555.7875 697.975 557.3125 691.25 C 559.325 683.9 563.44375 676.6625 562.34375 668.8125 C 560.54375 662.9375 553.30625 664.36875 548.78125 662.53125 C 544.19375 660.10625 544.26875 654.2375 543.53125 649.8125 C 542.84375 642.525 535.3 638.375 534.0625 631.25 C 533.4875 624.35 538.2125 618.08125 537.125 611.15625 C 536.225 606.20625 531.58125 603.49375 528.78125 599.71875 C 527.04375 597.69375 526.71875 594.41875 528.53125 592.34375 C 534.04375 585.19375 541.8375 580.2875 549.5 575.75 C 558.5125 570.375 564.1625 561.05625 572.5625 554.90625 C 577.425 551.44375 583.325 549.94375 588.5 547.03125 C 591.45 545.50625 594.1625 543.45625 597.4375 542.65625 C 603.1375 542.14375 609.7125 544.99375 614.6875 540.96875 C 619.825 537.60625 621.3125 531.41875 623.8125 526.21875 C 626.875 522.56875 631.5125 520.6875 635.125 517.625 C 660.8375 496.975 685.0625 474.50625 711.375 454.59375 C 716.0125 455.79375 721.1375 458.1125 725.8125 455.75 C 734.2 451.75 741.85 442.3 738.0625 432.5625 C 733.475 422.55 727.91875 412.96875 723.65625 402.78125 C 721.56875 397.45625 723.75 390.9375 720.0625 386.1875 C 715.05 379.625 708.90625 374 704.03125 367.3125 C 700.44375 362.6125 700.94375 356.1 697.40625 351.375 C 694.59375 347.575 691.2375 344.19375 687.6875 341.09375 C 684.0625 338.15625 678.94375 339.55 674.90625 337.6875 C 670.05625 334.1375 667.6375 328.025 662.375 324.9375 C 655.375 326.275 649.60625 330.9375 644.65625 335.8125 C 638.96875 341.4375 631.5875 345.09375 626.375 351.21875 C 620.55 357.86875 613.40625 363.15 606.15625 368.125 C 617.20625 352.175 628.725 336.5375 640.25 320.9375 C 640.5625 320.1875 641.21875 318.6875 641.53125 317.9375 C 629.16875 322.6125 616.5375 326.70625 603.6875 329.90625 C 581.75 334.10625 559.5875 336.93125 537.625 340.96875 C 534.3125 341.46875 530.975 342.4 527.625 342.0625 C 522.2875 340.1875 518.13125 336.0625 513.71875 332.6875 C 515.46875 328.0625 516.84375 323.2625 519.03125 318.8125 C 519.95625 316.45 522.55 315.6625 524.6875 314.75 C 541.7375 308.65 558.55 301.8625 575.5625 295.625 C 580.25 293.9 585.1625 292.9 590.125 292.25 C 607.6875 289.9875 625.125 286.99375 642.6875 284.65625 C 647.5125 283.89375 652.4875 283.69375 657.1875 282.21875 C 659.3125 281.55625 660.125 279.23125 661.25 277.53125 C 673.9875 254.01875 687.54375 230.95 700.15625 207.375 C 688.24375 213.55 676.1 219.275 664.3125 225.6875 C 650.85 233.25 636.65625 239.4375 623.21875 247.0625 C 609.83125 253.65 596.875 261.3 582.8125 266.4375 C 565.4875 272.2 548.19375 277.9875 530.84375 283.6875 C 529.59375 279 527.76875 273.99375 529.34375 269.15625 C 530.40625 265.93125 533.61875 264.35625 536.28125 262.65625 C 557.65625 249.74375 578.825 236.4875 600.25 223.6875 C 614.0375 216.9375 628.34375 211.3125 642.34375 205 C 666.21875 194.5625 690.11875 184.125 713.96875 173.625 C 717.39375 172.2625 719.2875 168.9375 721 165.875 C 738.9125 133.4875 757.59375 101.53125 775.53125 69.15625 C 777.64375 65.31875 780.1375 61.6125 781.25 57.3125 C 774.8375 60.175 769.53125 64.80625 763.96875 68.96875 C 698.89375 116.79375 633.7625 164.5875 568.75 212.5 C 565.2125 214.9625 561.40625 217.04375 557.46875 218.78125 C 531.13125 230.28125 505.3125 242.90625 478.8125 254.03125 C 474.75 249.26875 470.95 244.19375 466.125 240.15625 C 455.8375 231.63125 444.625 223.41875 431.3125 220.53125 C 431.125 199.08125 431.25 177.6375 431.25 156.1875 C 431.325 149.5375 430.1 142.9625 430 136.3125 C 429.5125 119.825 426.7375 103.45625 422.5 87.53125 C 418.1125 69.93125 410.36875 53.1 399.21875 38.75 L 397.96875 38.75 z M 249.625 363.84375 C 253.11309 363.91172 256.58438 364.7875 259.96875 365.59375 C 272.36875 368.61875 285.04375 370.425 297.34375 373.875 C 300.00625 381.125 301.55 388.70625 303.5 396.15625 C 289.0125 397.80625 274.45625 398.525 259.96875 400.0625 C 249.33125 399.2875 238.68125 398.1125 228.09375 396.875 C 222.71875 393.6875 218.375 389.06875 213.5 385.21875 C 207.6625 380.19375 201.2125 375.88125 195.875 370.28125 C 212.5625 367.73125 229.4 366.35 246.125 364.0625 C 247.29375 363.875 248.4623 363.82109 249.625 363.84375 z M 550.375 363.84375 C 551.52969 363.82051 552.68438 363.87812 553.84375 364.0625 C 570.15625 366.425 586.625 367.425 602.875 370.25 C 596.875 376.5375 589.55625 381.26875 583.09375 387.03125 C 578.75625 390.35625 575.0375 394.80625 570 397.03125 C 556.675 398.21875 543.25 401.19375 529.875 399.09375 C 518.7375 398.13125 507.58125 397.4 496.46875 396.125 C 498.43125 388.6875 499.975 381.14375 502.625 373.90625 C 514.95 370.40625 527.66875 368.625 540.09375 365.5625 C 543.45937 364.75625 546.91094 363.91348 550.375 363.84375 z M 300.03125 422.3125 C 303.82656 422.32344 307.61875 422.4375 311.40625 422.5625 C 314.45625 422.225 315.825 425.375 316.9375 427.625 C 319.15 433.3375 322.2875 438.575 325.3125 443.875 C 323.8375 446.125 322.5875 448.95625 319.8125 449.84375 C 315.275 451.56875 310.7875 453.51875 306.0625 454.71875 C 302.225 453.78125 300.1125 449.65 296.25 448.6875 C 292.6 449.425 288.8125 451.86875 285.125 449.78125 C 281.0625 447.31875 277.175 444.33125 274 440.78125 C 272.2875 437.26875 271.4375 433.35 269.125 430.125 C 275.7625 427.975 281.81875 424.175 288.65625 422.625 C 292.4375 422.36875 296.23594 422.30156 300.03125 422.3125 z M 502.1875 422.375 C 503.94687 422.36406 505.70938 422.35938 507.46875 422.375 C 515.94375 422.375 523 427.68125 530.8125 430.21875 C 528.8 431.85625 527.06875 433.875 526.40625 436.4375 C 524.85625 442.8125 518.73125 446.55625 513.46875 449.71875 C 509.61875 452.38125 505.59375 448.55 501.59375 448.8125 C 498.70625 450.475 496.2375 452.7625 493.625 454.8125 C 487.125 451.7 477.8625 451.56875 474.75 443.96875 C 478.8125 436.91875 481.65625 429.1875 486.34375 422.5 C 491.62188 422.50937 496.90938 422.40781 502.1875 422.375 z M 343.625 468.5625 C 351.4375 475.8875 358.98125 483.5375 367.28125 490.3125 C 367.70625 496.1625 367.5625 502.04375 367.375 507.90625 C 364.625 506.40625 361.775 505.09375 359.3125 503.15625 C 356.8 500.68125 355.61875 497.0375 352.59375 495.0625 C 348.85625 492.5125 344.40625 490.7625 341.71875 486.9375 C 337.46875 481.1875 331.3875 477.2625 326.0625 472.625 C 331.8875 471.1625 337.7375 469.7875 343.625 468.5625 z M 456.1875 468.625 C 461.7875 469.5875 467.3375 470.93125 472.8125 472.46875 C 467.4875 477.21875 461.275 481.1125 457 486.9375 C 453.1875 492.525 445.275 493.45625 442.125 499.65625 C 439.9625 503.91875 435.34375 505.775 431.34375 507.875 C 431.29375 502.5125 430.65625 497.06875 431.71875 491.78125 C 435.48125 486.81875 440.5625 483.0625 445.125 478.875 C 448.9 475.55 452.2125 471.7375 456.1875 468.625 z M 240.90625 522.46875 C 245.23243 522.41208 249.63125 523.97188 253.6875 525.3125 C 253.725 529.6625 254.50625 534.38125 252.21875 538.34375 C 249.58125 543.49375 244.7125 548.83125 238.3125 547.65625 C 237.0625 542.74375 231.84375 540.2 230.90625 535.1875 C 229.84375 531.1 230.71875 525.49375 235.09375 523.71875 C 236.98047 522.86719 238.9398 522.49451 240.90625 522.46875 z M 557.15625 522.46875 C 559.028 522.41995 560.90625 522.66406 562.75 523.375 C 567.4 524.575 568.975 530.1625 568 534.375 C 567.2875 539.775 561.98125 542.64375 560.21875 547.59375 C 553.78125 548.93125 549.3375 543.4125 546.5625 538.4375 C 544.275 534.45 545.05625 529.71875 545.03125 525.34375 C 548.92422 524.12344 553.0384 522.5761 557.15625 522.46875 z M 459.90625 585.6875 C 465.22581 585.46584 470.60625 588.275 473.1875 593 C 475.725 599.1875 475.05625 606.025 474.96875 612.5625 C 461.86875 610.425 448.5875 609.5375 435.625 606.6875 C 428.45 605.375 424.8875 598.33125 419.75 593.96875 C 406.85 593.59375 393.95 593.7875 381.0625 593.8125 C 378.2875 593.5125 376.79375 596.05625 375.15625 597.78125 C 371.89375 601.58125 368.29375 605.71875 363.09375 606.65625 C 350.13125 609.53125 336.86875 610.4125 323.78125 612.5625 C 323.90625 605.325 322.34375 597.0375 327.09375 590.875 C 330.68125 586.15 337.075 584.9 342.625 586.25 C 350.5125 587.175 355.56875 595.425 363.78125 595.125 C 365.96875 594.925 368.76875 595.71875 370.46875 593.90625 C 371.99375 591.51875 372.3375 588.6125 373.125 585.9375 C 374.2875 588.1 375.4625 590.25 376.625 592.4375 C 391.8 592.475 406.9625 592.475 422.125 592.4375 C 423.2875 590.25 424.43125 588.08125 425.59375 585.90625 C 426.29375 588.99375 427.2 592.05625 428.75 594.84375 C 432.875 594.98125 437.3375 595.68125 441.1875 593.78125 C 446.6125 591.05625 451.275 586.36875 457.625 585.96875 C 458.37344 585.81094 459.14631 585.71917 459.90625 585.6875 z "
+     transform="scale(0.8,0.8)"
+     id="path4483" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3278)"
+     inkscape:connector-curvature="0"
+     d="m 319.07,34.55 c 6.71,8.08 11.32,17.7 14.79,27.56 4.41,15.28 7.73,30.99 8.36,46.93 1.02,6.93 1.16,13.96 -0.04,20.87 -0.48,15.44 0.08,30.9 -0.25,46.35 -3.39,-0.74 -6.65,-1.93 -9.98,-2.84 -4.27,-0.8 -8.64,-0.28 -12.95,-0.42 0.01,-46.15 -0.11,-92.3 0.07,-138.45 z"
+     id="path4485" />
+  <path
+     style="fill:#f30202;filter:url(#filter3274)"
+     inkscape:connector-curvature="0"
+     d="m 599.49,66.31 c 6.75,-4.86 13.26,-10.1 20.38,-14.43 -7.18,15.36 -16.48,29.59 -24.53,44.49 -5.79,10.75 -12.34,21.07 -17.98,31.9 -2.04,3.78 -4.12,8.13 -8.37,9.82 -21.95,9.69 -44.02,19.1 -65.93,28.88 -10.28,4.66 -20.98,8.48 -30.73,14.24 -10.77,6.58 -21.46,13.27 -32.3,19.7 -5.71,3.48 -11.16,7.51 -17.48,9.83 -2.19,5.95 -1.77,12.69 1.54,18.14 15.31,-4.75 30.51,-9.84 45.65,-15.11 16.66,-7.18 32.24,-16.57 48.57,-24.45 12.37,-5.91 23.91,-13.54 36.8,-18.34 -2.82,6.34 -6.6,12.17 -9.86,18.28 -5.96,10.72 -11.88,21.47 -17.98,32.11 -1.58,3.03 -5.32,3.44 -8.34,3.88 -15.68,1.95 -31.23,4.75 -46.92,6.63 -9.11,1 -17.43,5.03 -25.91,8.19 -8.96,3.51 -18.02,6.76 -27.03,10.13 -2.17,0.87 -4.72,1.78 -5.57,4.2 -1.79,4.09 -3.71,8.25 -4.09,12.75 2.8,3.66 6.99,6.19 11.08,8.22 5.04,0.85 10.08,-1.01 15.07,-1.65 14.71,-2.66 29.53,-4.68 44.26,-7.25 9.34,-1.5 17.94,-5.76 27.24,-7.46 -4.56,8.17 -10.7,15.28 -16.02,22.94 -2.86,4 -5.32,8.36 -9,11.7 -13.04,-0.89 -25.96,-3 -38.95,-4.29 -5.45,-0.51 -10.68,1.29 -15.94,2.32 -8.35,1.8 -16.84,3.09 -25.01,5.61 -2.12,0.48 -2.49,2.89 -3.07,4.63 -1.43,5.43 -3.11,10.82 -3.86,16.4 10.11,1.88 20.43,2 30.63,3.16 9.1,1.19 18.11,-1.31 27.2,-1.38 -5.9,6.5 -13.26,11.37 -19.84,17.12 -2.27,1.99 -4.64,3.86 -7.13,5.57 -6.76,-1.97 -12.76,-6.7 -20.05,-6.63 -5.04,-0.06 -10.08,-0.34 -15.11,-0.07 -2.53,-0.1 -4.19,2.04 -5.98,3.45 0.89,-6.66 0.87,-13.42 1.9,-20.06 0.71,-5.31 7.61,-7.06 8.12,-12.4 -0.19,-7.01 -0.56,-14.03 -1.38,-21 0.56,-3.9 5.19,-5.47 6.26,-9.16 0.15,-6.45 -3.78,-11.92 -6.24,-17.61 -1.74,-4.78 0.54,-9.72 1.15,-14.49 0.85,-5.99 -0.68,-11.94 -1.67,-17.81 -1.29,-7.89 -5.96,-14.58 -8.86,-21.89 21.63,-10.09 43.39,-19.92 65.13,-29.77 6.68,-2.97 12.32,-7.67 18.16,-11.97 44,-32.36 87.99,-64.72 131.99,-97.07 z"
+     id="path4489" />
+  <path
+     style="fill:#f30202;filter:url(#filter3270)"
+     inkscape:connector-curvature="0"
+     d="m 20.01,51.88 c 2.78,1.57 5.46,3.32 8.01,5.23 48.35,35.59 96.7,71.19 145.08,106.74 5.27,3.8 10.3,8.04 16.23,10.81 22.17,10.31 44.64,19.96 66.65,30.61 -1.55,3.96 -3.39,7.78 -5.21,11.61 -3.38,6.86 -4.21,14.57 -5.41,22.03 -1.02,6.45 3.01,12.65 1.43,19.05 -2.83,5.47 -7.12,10.54 -7.48,16.98 -1.1,4.7 4.81,6.25 6.2,10.04 0.9,7.34 -1.03,14.66 -1.09,21.98 0,6.04 8.51,6.99 8.5,12.96 0.58,5.75 0.99,11.51 1.21,17.28 -6.29,-1.35 -12.75,-1.13 -19.14,-1.15 -7.91,-0.19 -14.52,4.84 -21.85,7.02 -4.2,-3.14 -8.23,-6.5 -12.24,-9.89 -5.05,-4.32 -10.62,-8.08 -15.02,-13.12 9.75,0.01 19.42,2.75 29.17,1.35 9.93,-1.22 20.07,-0.98 29.82,-3.35 -1.35,-6.35 -2.27,-12.92 -5.08,-18.82 -0.55,-1.68 -2.45,-1.9 -3.85,-2.45 -9.75,-3.01 -19.95,-4.04 -29.81,-6.61 -7.69,-2.01 -15.54,0.26 -23.25,0.88 -7.68,0.65 -15.28,1.98 -22.96,2.64 -3.2,0.29 -4.78,-3.13 -6.48,-5.24 -6.57,-9.99 -14.41,-19.12 -20.47,-29.46 9.8,2.02 19.01,6.25 28.92,7.82 17.71,2.9 35.45,5.57 53.13,8.63 4.62,1.19 8.49,-2.07 11.96,-4.58 1.32,-1.16 3.06,-2.15 3.66,-3.88 -0.58,-4.57 -2.35,-8.93 -4.41,-13.02 -1.15,-2.47 -4,-3.18 -6.31,-4.13 -13.65,-4.83 -27.05,-10.33 -40.64,-15.32 -5.25,-1.95 -10.86,-2.51 -16.37,-3.29 -14.3,-1.9 -28.54,-4.3 -42.84,-6.16 -2.45,-0.47 -5.61,-0.58 -6.92,-3.1 -6.5,-11.26 -12.8,-22.65 -19.17,-34 -3.07,-5.64 -6.61,-11.03 -9.1,-16.97 12.64,4.76 24.04,12.13 36.18,17.97 10.81,4.98 20.95,11.26 31.71,16.34 7.63,3.64 14.95,8.07 23.1,10.53 13.46,4.03 26.56,9.15 40.05,13.06 2.76,-5.23 4.24,-11.84 1.51,-17.38 -2.24,-2.27 -5.55,-3.01 -8.16,-4.77 -14.38,-8.99 -28.92,-17.7 -43.36,-26.58 -3.45,-2.08 -7.12,-3.77 -10.81,-5.35 -27.15,-11.77 -54.17,-23.84 -81.38,-35.47 -3.1,-1.33 -6.44,-2.87 -8.07,-6.02 C 53.22,111.45 40.77,89.58 28.38,67.68 25.55,62.43 22.32,57.39 20.01,51.88 z"
+     id="path4491" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3266)"
+     inkscape:connector-curvature="0"
+     d="m 305.24,56.87 c 0.45,1.3 1.43,2.72 0.45,4.1 -3.81,12.01 -6.43,24.4 -7.6,36.95 -0.27,5.35 0.06,10.71 -0.08,16.07 -0.09,4.67 -1.14,9.27 -1.02,13.95 0.06,15.41 0.06,30.82 -0.04,46.23 0.06,1.37 -1.12,2.34 -1.69,3.48 -0.59,-21.53 -0.1,-43.08 -0.29,-64.62 0.77,-13.08 2.23,-26.18 5.16,-38.98 1.27,-5.85 3.79,-11.34 5.11,-17.18 z"
+     id="path4493" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3262)"
+     inkscape:connector-curvature="0"
+     d="m 369.4,248.2 c 8.18,2.6 16.44,6.4 21.95,13.24 3.59,4.42 5.39,9.94 6.77,15.4 -4.04,2.79 -6.2,7.31 -9.56,10.73 -14.84,10.25 -32.99,13.31 -49.81,18.8 12.12,-0.22 23.85,-3.77 35.3,-7.44 6.51,-2.07 12.17,-5.97 18.06,-9.31 -0.15,3.75 -1.24,7.61 0.07,11.28 1.04,3.14 1.32,7.36 -1.58,9.61 -4.78,3.43 -10.29,5.69 -15.05,9.17 3.25,-1.01 6.35,-2.4 9.49,-3.69 -1.04,7.64 -2.05,15.32 -1.99,23.06 -0.07,2.43 0.2,5.42 -1.93,7.13 -8.07,5.22 -16.86,9.2 -25.3,13.75 4.69,-0.6 8.81,-3.13 13.35,-4.3 -1.94,5.95 -4.24,11.79 -6.78,17.5 -0.84,2.06 -2.71,3.36 -4.33,4.74 -4.53,3.57 -8.06,8.2 -12.57,11.77 -3.7,2.92 -6.87,6.43 -10.51,9.42 -5.55,4.53 -10.09,10.25 -16.17,14.14 1.75,-8.5 4.61,-16.72 6.82,-25.11 4.18,-15.7 8.74,-31.3 13.13,-46.95 1.23,-3.9 1.43,-8.24 3.63,-11.76 5.2,-2.93 11.47,-3.23 16.69,-6.21 -7.57,1.02 -14.86,3.4 -22.26,5.19 -4.69,1.28 -9.52,1.98 -14.15,3.44 5.21,0.6 10.34,-0.83 15.42,-1.83 -7.08,26.5 -14.59,52.87 -21.56,79.39 -7.17,-3.94 -11.72,-10.98 -18.06,-15.93 -4.21,-3.4 -7.84,-7.45 -12.1,-10.79 -4.17,-3.79 -8.89,-7.53 -10.86,-13.01 -2.21,-5.21 -3.07,-11.06 -6.39,-15.74 -3.59,-3.26 -8.16,-5.17 -12.02,-8.07 -0.45,-9.98 -1.5,-19.92 -2.23,-29.88 3.21,1.64 6.39,3.65 10.06,4.01 -6.04,-3.61 -12.95,-6.03 -17.88,-11.27 -0.16,-6.59 0.81,-13.15 0.89,-19.74 6.92,3.15 13.71,6.68 21.01,8.91 12.04,3.57 24.33,6.24 36.69,8.42 4.17,0.72 8.37,2.07 12.65,1.4 -4.35,-1.37 -8.86,-2.21 -13.38,-2.75 0.8,-0.49 1.6,-0.96 2.42,-1.43 1.75,0.25 3.51,0.43 5.28,0.57 2.23,-3.99 3.22,-9.79 8,-11.5 2.1,3.93 4.29,7.81 6.67,11.58 4.85,-0.22 9.49,-1.71 14.2,-2.78 -1.9,-2.22 -4.43,-3.68 -7.05,-4.87 -0.92,-2.5 -1.98,-4.96 -2.6,-7.55 0.03,-1.67 1.74,-2.29 3.11,-2.49 8.71,-1.8 16.11,-7.11 23.07,-12.37 5.92,-5.12 12.22,-11.11 20.55,-11.3 0.97,5.45 3.95,10.68 3.22,16.33 -1.97,5.68 -6.27,10.07 -9.98,14.66 3.37,-1.54 7.9,-1.9 9.73,-5.57 0.51,-1.41 1.6,-0.47 2.12,0.39 4.12,-3.02 6.4,-7.69 9.51,-11.61 1.86,-2.35 0.49,-5.42 -0.39,-7.89 -3.6,-8.82 -12.03,-14.67 -20.71,-17.83 -2.22,-1.11 -4.27,0.54 -5.71,2.07 -4.76,4.85 -10.59,8.5 -16.58,11.63 6.07,-6.17 14.95,-9.17 19.63,-16.76 z"
+     id="path4495" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3258)"
+     inkscape:connector-curvature="0"
+     d="m 253.5,256.34 c 5.08,-3.85 11.05,-7.28 17.6,-7.34 1.81,1.14 3.21,2.79 4.75,4.25 6.32,6.22 14.31,10.29 21.29,15.67 -7.79,-3.48 -15.02,-8.14 -21.8,-13.27 -2.47,-1.87 -4.67,-5.83 -8.31,-4.42 -10.1,3.42 -18.38,11.75 -21.82,21.82 -1.39,3.56 2.62,5.72 4.18,8.38 2.15,2.68 3.98,7.8 8.29,6.61 2.67,2.78 6.09,4.67 9.73,5.9 -3.65,-5.11 -9.12,-9.41 -10.36,-15.86 0.43,-5.33 2.44,-10.37 4.09,-15.4 11.07,1.31 18.01,10.83 26.81,16.5 5.13,2.94 10.33,6.01 16.15,7.36 1.27,0.31 3.24,0.87 3,2.59 -0.47,2.69 -0.91,6 -3.4,7.62 -2.11,1.47 -4.21,2.96 -6.14,4.66 2.83,0.63 5.66,1.28 8.53,1.68 -0.82,0.49 -1.63,0.98 -2.44,1.47 -14.94,-3.25 -29.79,-7.11 -44.22,-12.18 -3.96,-1.56 -8.61,-2.96 -10.7,-7.01 -1.95,-3.34 -4.37,-6.42 -7.51,-8.71 1.09,-8.12 5.57,-15.6 12.28,-20.32 z"
+     id="path4497" />
+  <path
+     style="fill:#f3f306;filter:url(#filter3254)"
+     d="M 137.21875 327.3125 C 134.28125 329.7375 131.78125 332.625 129.71875 335.8125 C 132.81875 336.4125 136.3125 336.4375 138.875 338.5625 C 142.6875 341.7625 147.275 345.20625 147.75 350.59375 C 144.15 352.58125 140.75 355.00625 138 358.09375 C 133.575 363.25625 126.225 362.6 120.125 363.5 C 119.675 358.5375 118.525 353.0375 120.875 348.375 C 124.075 344.7875 128.03125 341.725 130.03125 337.1875 C 123.86875 339.2875 119.09375 343.78125 114.65625 348.34375 C 104.64375 357.26875 97.6 368.79375 88.625 378.65625 C 85.5625 382.50625 81.63125 385.73125 79.28125 390.09375 C 77.74375 394.31875 80.375 399.15 78.125 403.25 C 73 412.9875 68.75 423.1375 63.375 432.75 C 58.9 444.7125 72.9375 457.575 84.75 453.625 L 76.3125 451.96875 C 78.25 449.69375 80.0125 447.28125 81.75 444.84375 C 85.4 447.44375 88.1875 450.9625 91.5 453.9375 L 90.5 452.90625 L 91.1875 453.28125 C 92.7125 451.93125 94.24375 450.59375 95.78125 449.28125 C 114.10625 465.58125 133.375 480.8125 152.0625 496.6875 C 158.65 502.3875 166.0125 507.20625 171.8125 513.78125 C 170.7375 515.08125 169.66875 516.375 168.59375 517.6875 C 171.98125 520.825 177.51875 522.5 178.59375 527.5 C 179.75625 532.6125 182.64375 537.69375 187.59375 539.96875 C 192.84375 542.31875 198.36875 537.975 203.71875 539.6875 C 219.46875 544 233.13125 554.0625 243.96875 566.0625 C 245.66875 567.55 247.2625 569.7375 249.75 569.75 C 263.3375 570.8625 277.3875 571.6625 289.9375 577.5 C 299.1125 581.5375 306.0875 589.4375 310.5625 598.25 C 313.45 604.6625 314.16875 611.79375 314.84375 618.71875 C 315.30625 626.24375 316.66875 633.75 316.09375 641.3125 C 315.51875 649.6875 314.18125 657.98125 312.65625 666.21875 C 314.65625 669.95625 317.2625 674.25625 322.125 674.15625 C 324.0625 667.90625 325.7125 661.56875 326.9375 655.15625 C 328.475 647.16875 327.10625 639.05 325.96875 631.125 C 324.93125 623.9875 321.25 617.375 321.25 610.0625 C 321.3 603.975 320.675 597.5875 323.1875 591.875 C 325.95 587.25 330.8125 583.58125 336.25 583.03125 C 343.6 582.65625 350.50625 585.9125 356.40625 590 C 359.89375 592.4625 364.3 593.1125 368.4375 592.25 C 371.3125 587.75 371.5375 581.8875 369.9375 576.875 C 368.275 575.9 366.70625 574.79375 365.21875 573.59375 C 344.14375 555.49375 323.05625 537.44375 301.71875 519.65625 C 294.59375 513.60625 287 508.05 280.625 501.1875 C 285.25 494.1875 285.6 485.61875 285.0625 477.53125 C 284.4625 469.78125 286.80625 461.825 284.46875 454.25 C 281.33125 449.0625 275.20625 446.775 271.59375 442 C 269.99375 438.7375 269.5625 434.66875 266.25 432.53125 C 244.275 414.08125 222.175 395.775 200 377.5625 C 189.575 368.8375 177.6625 361.725 168.8125 351.25 C 163.5625 345.9625 156.76875 342.54375 151.65625 337.09375 C 147.71875 332.66875 142.31875 330.1 137.21875 327.3125 z M 240.90625 522.46875 C 245.23243 522.41208 249.63125 523.97188 253.6875 525.3125 C 253.725 529.6625 254.50625 534.38125 252.21875 538.34375 C 249.58125 543.49375 244.7125 548.83125 238.3125 547.65625 C 237.0625 542.74375 231.84375 540.2 230.90625 535.1875 C 229.84375 531.1 230.71875 525.49375 235.09375 523.71875 C 236.98047 522.86719 238.9398 522.49451 240.90625 522.46875 z "
+     transform="scale(0.8,0.8)"
+     id="path4499" />
+  <path
+     style="fill:#f3f306;filter:url(#filter3250)"
+     d="M 661.53125 327.34375 C 651.14375 331.38125 644.5375 340.64375 635.4375 346.59375 C 629.5625 350.21875 626.16875 356.5375 620.59375 360.5 C 590.30625 383.775 561.2625 408.59375 531.9375 433.03125 C 528.8875 435.06875 528.775 438.9625 527.1875 441.9375 C 523.55 446.675 517.525 449.05 514.3125 454.1875 C 512.7125 458.4375 513.275 463.1125 513.5 467.5625 C 514.025 474.6125 513.4625 481.6875 513.75 488.75 C 513.7875 493.275 516.175 497.2375 518.1875 501.125 C 510.9625 508.7875 502.4125 515 494.4375 521.8125 C 474.55 538.5625 454.64375 555.3125 435.03125 572.375 C 432.66875 574.3125 430.05625 575.875 427.65625 577.75 L 427.0625 578.90625 C 427.05 583.63125 428.86875 588.1375 430.21875 592.625 C 431.10625 592.6125 432.9125 592.60625 433.8125 592.59375 C 441.9875 593.00625 447.13125 584.89375 454.96875 583.78125 C 461.24375 581.88125 468.4375 583.34375 472.875 588.34375 C 478.325 593.56875 477.4375 601.75 477.5625 608.625 C 477.7625 616.45 473.95625 623.575 472.78125 631.1875 C 471.59375 639.1125 470.3 647.23125 471.8125 655.21875 C 473.0375 661.60625 474.675 667.9125 476.625 674.125 C 481.475 674.2625 484.10625 670 486.09375 666.25 C 484.50625 657.5625 483.05625 648.825 482.59375 640 C 482.18125 632.875 483.48125 625.80625 483.90625 618.71875 C 484.73125 610.59375 485.575 602.025 490 594.9375 C 494.4625 587.55 500.775 581.05625 508.75 577.53125 C 521.2875 571.68125 535.33125 570.85 548.90625 569.75 C 551.70625 569.7125 553.4625 567.15625 555.375 565.46875 C 566.1 553.68125 579.63125 543.88125 595.15625 539.65625 C 600.74375 537.95625 606.75625 542.85 612.03125 539.5 C 616.53125 537.025 618.9625 532.34375 620.125 527.53125 C 621.075 522.74375 626.0375 520.95 629.6875 518.625 C 628.8875 516.9625 628.1125 515.325 627.3125 513.6875 C 631.7 508.3875 637.4 504.4875 642.6875 500.1875 C 662.2375 483.775 682 467.61875 701.375 451.03125 C 703.8125 448.70625 706.49375 452.19375 708.71875 453.21875 C 711.01875 450.05625 713.66875 447.14375 716.90625 444.90625 C 718.80625 447.25625 720.70625 449.625 722.59375 452 C 724.31875 451.9875 726.0125 451.9375 727.75 451.9375 C 730.6375 448.6 734.64375 445.875 736.03125 441.5 C 737.03125 437.8375 736.2625 433.8875 734.3125 430.6875 C 729.4 422.0375 725.70625 412.79375 721.03125 404.03125 C 717.66875 398.65625 722.5125 391.2 717.1875 386.625 C 704.3375 373.1 694.30625 357.13125 680.34375 344.65625 C 677.20625 341.81875 673.5 339.625 669.5 338.25 C 671.725 342.0875 675.2 344.94375 677.75 348.53125 C 680.775 353.03125 678.85625 358.575 678.46875 363.5 C 672.65625 362.6125 665.75625 363.25625 661.34375 358.65625 C 658.38125 355.39375 654.89375 352.68125 651.03125 350.59375 C 652.50625 342.44375 660.66875 336.95 668.34375 335.25 C 666.78125 332.0625 664.31875 329.49375 661.53125 327.34375 z M 557.15625 522.46875 C 559.028 522.41995 560.90625 522.66406 562.75 523.375 C 567.4 524.575 568.975 530.1625 568 534.375 C 567.2875 539.775 561.98125 542.64375 560.21875 547.59375 C 553.78125 548.93125 549.3375 543.4125 546.5625 538.4375 C 544.275 534.45 545.05625 529.71875 545.03125 525.34375 C 548.92422 524.12344 553.0384 522.5761 557.15625 522.46875 z "
+     transform="scale(0.8,0.8)"
+     id="path4501" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3246)"
+     inkscape:connector-curvature="0"
+     d="m 98.78,300.25 c 6.94,-5.82 14.75,-10.46 21.58,-16.43 0.86,2.79 1.44,6.01 4,7.82 17.69,14.37 35.11,29.06 53.1,43.05 5.12,3.5 9.46,7.98 14.39,11.68 1.49,0.82 3.13,-0.78 4.63,-1.02 -1.77,3.47 -3.82,6.84 -6.63,9.57 -13.81,14.28 -25.54,30.34 -38.23,45.58 -2.59,2.97 -4.62,6.39 -6.08,10.05 1.88,1.09 3.77,2.18 5.63,3.31 -3.3,2.41 -7.82,-0.28 -8.46,-4.01 1.47,-2.7 3.58,-4.98 5.2,-7.59 -14.25,-12.48 -28.96,-24.41 -43.4,-36.65 -10.16,-8.43 -19.65,-17.71 -30.71,-24.98 -1.59,-0.67 -3.33,0.1 -4.97,0.15 5.22,-8.96 11.59,-17.16 17.24,-25.84 -1.51,-0.67 -3.01,-1.33 -4.51,-1.98 -2.19,-2.72 -4.42,-5.39 -6.77,-7.97 2.7,-3.04 5.47,-6.01 8.13,-9.08 1.5,-1.67 3.03,-3.53 5.28,-4.16 3.54,2.79 6.42,6.48 10.58,8.5 z"
+     id="path4503" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3242)"
+     inkscape:connector-curvature="0"
+     d="m 518.62,283.8 c 6.85,5.95 14.65,10.65 21.62,16.45 4.18,-2.02 7.01,-5.79 10.61,-8.51 2.48,0.76 4.1,2.92 5.77,4.77 2.45,2.9 5.05,5.65 7.62,8.44 -1.43,1.69 -2.83,3.42 -4.38,5 -2.05,2.03 -4.4,3.7 -6.75,5.37 5.67,8.32 11.54,16.5 17.01,24.96 -2.04,0.21 -4.06,0.37 -6.06,0.79 -5.03,4.35 -10.78,7.81 -15.55,12.47 -18.86,16.61 -38.56,32.24 -57.48,48.78 1.69,2.83 4.83,5.17 4.97,8.68 -1.1,3.11 -5.34,4.98 -8.18,2.86 1.85,-1.12 3.73,-2.2 5.61,-3.27 -1.41,-3.42 -3.08,-6.76 -5.57,-9.52 -12.33,-14.63 -23.51,-30.25 -36.81,-44.05 -1.72,-1.84 -3.43,-3.67 -5.1,-5.55 -1.46,-1.76 -2.26,-3.95 -3.26,-5.98 1.91,0.45 4.3,2.01 5.83,-0.03 6.93,-6.46 14.71,-11.89 22,-17.92 14.97,-11.63 29.3,-24.05 44.1,-35.88 2.59,-1.8 3.13,-5.06 4,-7.86 z"
+     id="path4505" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3238)"
+     inkscape:connector-curvature="0"
+     d="m 88.37,307.25 c 0.95,-1.61 3.49,0.03 2.25,1.51 -0.95,1.6 -3.49,-0.04 -2.25,-1.51 z"
+     id="path4511" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3234)"
+     inkscape:connector-curvature="0"
+     d="m 548.31,307.03 c 1.12,-1.32 3.39,0.55 2.38,1.93 -1.14,1.31 -3.41,-0.56 -2.38,-1.93 z"
+     id="path4513" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3230)"
+     inkscape:connector-curvature="0"
+     d="m 553.11,315.32 c 2.35,-1.67 4.7,-3.34 6.75,-5.37 0.57,1.47 0.55,2.84 -0.05,4.11 -0.58,0.07 -1.74,0.2 -2.31,0.27 6.86,8.4 13.59,17.08 18.11,27.02 -0.62,1.18 -1.23,2.37 -1.82,3.56 -2.86,-2.12 -6.18,-3.5 -9.73,-3.84 2,-0.42 4.02,-0.58 6.06,-0.79 -5.47,-8.46 -11.34,-16.64 -17.01,-24.96 z"
+     id="path4515" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3226)"
+     inkscape:connector-curvature="0"
+     d="m 81.56,312.96 c 1.5,0.65 3,1.31 4.51,1.98 -5.65,8.68 -12.02,16.88 -17.24,25.84 -0.98,1.58 -2.17,3 -3.36,4.43 -0.74,-1.36 -1.47,-2.72 -2.2,-4.07 3.95,-5.79 6.94,-12.15 10.94,-17.9 2.01,-3.51 5.07,-6.25 7.04,-9.77 0.07,-0.13 0.23,-0.38 0.31,-0.51 z"
+     id="path4517" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3222)"
+     inkscape:connector-curvature="0"
+     d="m 78.56,314.36 c 0.67,-0.22 2.01,-0.67 2.69,-0.89 -1.97,3.52 -5.03,6.26 -7.04,9.77 -4,5.75 -6.99,12.11 -10.94,17.9 0.73,1.35 1.46,2.71 2.2,4.07 -1.92,-1.18 -3.83,-2.36 -5.75,-3.53 1.34,-3.42 3.55,-6.36 5.55,-9.4 4.23,-6.11 7.92,-12.69 13.29,-17.92 z"
+     id="path4519" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3218)"
+     inkscape:connector-curvature="0"
+     d="m 557.5,314.33 c 0.57,-0.07 1.73,-0.2 2.31,-0.27 5.2,5.6 9.54,11.9 14.21,17.93 2.09,3.04 4.05,6.21 5.25,9.72 -1.82,1.08 -3.64,2.16 -5.48,3.2 0.59,-1.19 1.2,-2.38 1.82,-3.56 -4.52,-9.94 -11.25,-18.62 -18.11,-27.02 z"
+     id="path4521" />
+  <path
+     style="fill:#f30202;filter:url(#filter3214)"
+     inkscape:connector-curvature="0"
+     d="m 370.94,358.01 c 1.6,-3.36 5.13,-4.99 8.05,-6.99 -0.41,3.05 -0.88,6.9 1.93,9.01 3.6,2.34 7.84,3.39 11.74,5.13 -2.93,3.88 -5.59,8.95 -10.73,10.12 -5.44,0.82 -10.77,-1.1 -15.91,-2.59 1.13,-5.04 2.55,-10.06 4.92,-14.68 z"
+     id="path4527" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3210)"
+     inkscape:connector-curvature="0"
+     d="m 445.95,351.47 c 1.67,1.88 3.38,3.71 5.1,5.55 13.3,13.8 24.48,29.42 36.81,44.05 2.49,2.76 4.16,6.1 5.57,9.52 -1.88,1.07 -3.76,2.15 -5.61,3.27 -0.15,-0.44 -0.45,-1.31 -0.6,-1.75 -2.56,-7.51 -8.55,-13 -13.4,-19.03 -8.08,-10.05 -17.02,-19.4 -24.62,-29.83 0.46,-0.89 0.92,-1.78 1.38,-2.67 -0.09,-0.24 -0.26,-0.73 -0.35,-0.98 -1.11,-2.87 -2.92,-5.39 -4.28,-8.13 z"
+     id="path4529" />
+  <path
+     style="fill:#f30202;filter:url(#filter3206)"
+     inkscape:connector-curvature="0"
+     d="m 262.38,352.29 c 2.43,1.56 5.16,3.14 6.31,5.95 2.1,4.72 3.49,9.7 5.19,14.57 -5.72,1.77 -11.86,3.76 -17.85,2.22 -4.48,-1.7 -6.8,-6.26 -9.64,-9.8 4.07,-1.59 8.4,-2.61 12.2,-4.81 2.47,-1.92 2.75,-5.39 3.79,-8.13 z"
+     id="path4531" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3202)"
+     inkscape:connector-curvature="0"
+     d="m 151.62,400.5 c 12.69,-15.24 24.42,-31.3 38.23,-45.58 -0.28,1.55 -0.55,3.12 -0.64,4.7 -0.28,2.12 0.38,4.66 -1.26,6.37 -8.13,9.85 -16.5,19.51 -24.66,29.33 -4.36,5.19 -9.32,10.21 -11.52,16.77 -0.15,0.45 -0.45,1.33 -0.6,1.77 -1.86,-1.13 -3.75,-2.22 -5.63,-3.31 1.46,-3.66 3.49,-7.08 6.08,-10.05 z"
+     id="path4533" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3198)"
+     inkscape:connector-curvature="0"
+     d="m 189.21,359.62 c 1.32,1.12 2.65,2.23 3.98,3.34 -8.74,10.99 -18.21,21.4 -26.45,32.79 -4.33,6 -8.89,12 -14.97,16.34 2.2,-6.56 7.16,-11.58 11.52,-16.77 8.16,-9.82 16.53,-19.48 24.66,-29.33 1.64,-1.71 0.98,-4.25 1.26,-6.37 z"
+     id="path4535" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3194)"
+     inkscape:connector-curvature="0"
+     d="m 445.75,362.91 c 1.48,-1.12 2.97,-2.23 4.48,-3.31 0.09,0.25 0.26,0.74 0.35,0.98 -0.46,0.89 -0.92,1.78 -1.38,2.67 7.6,10.43 16.54,19.78 24.62,29.83 4.85,6.03 10.84,11.52 13.4,19.03 -5.65,-4.11 -10.09,-9.58 -14.12,-15.22 -8.5,-11.81 -18.26,-22.63 -27.35,-33.98 z"
+     id="path4537" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3190)"
+     inkscape:connector-curvature="0"
+     d="m 570.67,361.58 c 2.46,-0.02 4.93,0.04 7.4,0.01 1.38,-0.01 2.75,-0.03 4.14,-0.03 -3.51,1.97 -8.13,2.51 -11.54,0.02 z"
+     id="path4539" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3186)"
+     inkscape:connector-curvature="0"
+     d="m 72.39,362.33 0.56,0.29 c 4.92,2.35 9.85,4.82 13.97,8.45 13.03,10.99 25.86,22.22 38.93,33.16 3.29,2.9 6.61,5.85 9.02,9.55 -4.73,-2.17 -8.41,-5.91 -12.38,-9.17 -11.56,-9.45 -22.69,-19.42 -34.22,-28.9 -4.74,-4.53 -10.65,-7.67 -15.07,-12.55 l -0.81,-0.83 z"
+     id="path4541" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3182)"
+     inkscape:connector-curvature="0"
+     d="m 548.3,374.23 c 5.27,-4.1 10.26,-9.38 17.11,-10.64 -3.21,3.49 -7.28,6 -10.96,8.94 -15,12.62 -29.85,25.42 -44.93,37.95 -1.57,1.25 -3.35,2.22 -5.18,3.03 0.97,-2.03 2.48,-3.71 4.2,-5.12 13.09,-11.57 26.57,-22.69 39.76,-34.16 z"
+     id="path4543" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3178)"
+     inkscape:connector-curvature="0"
+     d="m 230.05,369.91 c 0.13,-1.38 0.28,-2.84 1.08,-4.01 5.77,5.97 12.53,10.83 18.69,16.37 3.17,2.84 7.12,4.71 10.05,7.84 1.96,2.07 3.86,4.24 6.11,6.02 8.09,6.16 15.27,13.44 23.58,19.32 3.66,2.56 2.91,7.61 4.97,11.15 1.31,1.6 3.1,2.74 4.39,4.38 1.91,2.65 1.9,6.06 3,9.04 2.32,1.31 5.52,0.69 7.55,2.73 2.67,2.16 5.77,5.35 4.51,9.1 -3.43,3.44 -8.04,5.23 -12.49,6.93 -2.13,0.74 -3.02,2.96 -3.7,4.92 -0.81,-1.38 -1.48,-2.84 -2.09,-4.32 -13.03,-10.96 -25.6,-22.48 -38.81,-33.25 -3.99,-3.32 -7.45,-7.24 -11.6,-10.38 -5.29,-4.06 -10.56,-8.15 -15.66,-12.45 -1.03,-0.98 -2.23,-1.94 -2.69,-3.32 0.91,-2.3 2.76,-4.26 2.93,-6.81 0.47,-7.75 -0.45,-15.52 0.18,-23.26 z"
+     id="path4545" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3174)"
+     inkscape:connector-curvature="0"
+     d="m 396.84,375.76 c 3.99,-3.12 7.69,-6.59 11.38,-10.05 1.9,9.04 0.29,18.3 0.89,27.44 0.14,2.54 2.02,4.5 2.93,6.79 -0.97,2.51 -3.54,3.96 -5.48,5.69 -6.86,5.8 -14.42,10.77 -20.76,17.17 -10.43,9.25 -21.42,17.86 -31.61,27.39 -4.06,3.95 -9.86,6.49 -12.07,12.02 l -0.46,0.92 c -1.41,-1.75 -2.61,-3.96 -4.87,-4.68 -4.25,-1.52 -8.52,-3.38 -11.77,-6.6 -1.26,-3.78 1.88,-6.98 4.57,-9.15 2.02,-1.97 5.11,-1.44 7.47,-2.64 1.03,-2.78 1.11,-5.88 2.63,-8.48 1.52,-2.64 5,-3.82 5.63,-7.01 1.03,-3.16 1.15,-7.11 4.21,-9.15 8.27,-5.9 15.43,-13.16 23.5,-19.32 3.78,-2.93 6.42,-7.11 10.52,-9.66 4.83,-3.05 8.82,-7.17 13.29,-10.68 z"
+     id="path4547" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3170)"
+     inkscape:connector-curvature="0"
+     d="m 190.38,371.27 c 0.34,-0.05 1.02,-0.15 1.36,-0.2 4.46,3.15 8.35,7.11 11.7,11.41 0.71,1.19 2.27,2.61 1.09,4.03 -2.82,4.09 -5.54,8.49 -9.49,11.56 -5.34,-4.18 -11.06,-8.33 -14.71,-14.15 2.05,-4.91 6.09,-9.08 10.05,-12.65 z"
+     id="path4549" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3166)"
+     inkscape:connector-curvature="0"
+     d="m 435.46,382.58 c 3.48,-4.64 7.79,-8.61 12.44,-12.05 4.25,3.89 8.31,8.12 10.94,13.32 -3.87,5.89 -9.64,10.02 -14.98,14.44 -3.54,-3.58 -6.77,-7.5 -9.37,-11.82 -1.16,-1.36 0.27,-2.72 0.97,-3.89 z"
+     id="path4551" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3162)"
+     inkscape:connector-curvature="0"
+     d="m 295.24,393.35 c 0.59,1.13 1.75,2.11 1.71,3.49 0.19,4.26 0.13,8.53 -0.17,12.78 -0.63,-1.12 -1.8,-2.09 -1.74,-3.47 -0.19,-4.27 -0.14,-8.55 0.2,-12.8 z"
+     id="path4557" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3158)"
+     inkscape:connector-curvature="0"
+     d="m 329.8,407.02 c 4.19,-3.33 7.62,-7.51 12.01,-10.6 0.32,4.43 0.39,8.88 -0.01,13.32 -3.9,4.47 -9.32,6.83 -14.24,9.88 2.78,4.04 5.29,8.66 9.92,10.86 -1.43,2.18 -2.18,4.69 -2,7.31 -5.82,1.45 -11.1,5.61 -13.14,11.33 -0.49,2.84 1.99,4.85 3.63,6.8 -2.35,1.34 -4.69,2.69 -7.01,4.08 -2.34,-1.13 -4.68,-2.24 -7.02,-3.36 0.3,-0.4 0.89,-1.19 1.19,-1.59 1.95,0.96 3.91,1.92 5.87,2.88 0.21,-13.63 -0.42,-27.31 0.25,-40.91 3.29,-3.54 7.01,-6.7 10.55,-10 z"
+     id="path4559" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3154)"
+     inkscape:connector-curvature="0"
+     d="m 160.26,407.63 c 4.66,-2.3 7.82,-6.5 11.66,-9.85 -1.59,3.03 -3.37,5.96 -5.06,8.93 2.81,1.4 5.71,2.83 7.75,5.32 -5.24,0.55 -9.75,-2.44 -14.35,-4.4 z"
+     id="path4561" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3150)"
+     inkscape:connector-curvature="0"
+     d="m 467.04,397.73 c 3.87,3.31 6.9,7.7 11.7,9.8 -4.56,2.13 -9.12,5 -14.37,4.53 1.9,-2.86 5.4,-3.66 8.03,-5.61 -1.97,-2.79 -3.92,-5.61 -5.36,-8.72 z"
+     id="path4563" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3146)"
+     d="M 244.375 514.9375 C 241.629 514.99939 239.01875 515.77813 236.75 517.8125 C 231.375 521.2625 226.8 527.1375 227.8125 533.875 C 229.3375 541.675 234.575 548.44375 241.1875 552.71875 C 247.2625 556.90625 253.5125 562.325 261.3125 562.3125 C 267.5375 561.8875 274.26875 559.50625 277.78125 554.03125 C 281.05625 549.26875 281.58125 543.33125 281.46875 537.71875 C 283.84375 540.33125 286.3375 542.8625 289 545.1875 C 285.2875 530.8875 271.225 522.4125 258.0625 518 C 253.85938 516.71094 248.95166 514.83435 244.375 514.9375 z M 240.90625 522.46875 C 245.23243 522.41208 249.63125 523.97188 253.6875 525.3125 C 253.725 529.6625 254.50625 534.38125 252.21875 538.34375 C 249.58125 543.49375 244.7125 548.83125 238.3125 547.65625 C 237.0625 542.74375 231.84375 540.2 230.90625 535.1875 C 229.84375 531.1 230.71875 525.49375 235.09375 523.71875 C 236.98047 522.86719 238.9398 522.49451 240.90625 522.46875 z "
+     transform="scale(0.8,0.8)"
+     id="path4565" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3142)"
+     inkscape:connector-curvature="0"
+     d="m 276.95,421 c 1.86,-2.6 1.16,-6.24 2.12,-9.25 2.92,2.12 6.27,4.1 8.01,7.37 0.16,5 -0.77,9.94 -1.25,14.9 -0.39,2.37 -0.43,4.97 -1.8,7.05 -5.56,-2.98 -9.37,-8.35 -14.84,-11.47 -2.45,-3.08 -0.91,-7.13 -1.05,-10.7 2.85,0.87 5.73,3.18 8.81,2.1 z"
+     id="path4567" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3138)"
+     inkscape:connector-curvature="0"
+     d="m 351.9,419.12 c 1.78,-3.3 5.14,-5.33 8.16,-7.38 0.67,3.49 0.97,7.04 1.01,10.59 3.38,-0.79 6.6,-2.13 9.81,-3.45 -0.3,3.47 1.74,7.91 -1.62,10.41 -4.41,4.33 -9.27,8.2 -14.15,12 -1.51,-2.47 -1.73,-5.42 -2.05,-8.22 -0.46,-4.64 -1.31,-9.27 -1.16,-13.95 z"
+     id="path4569" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3134)"
+     d="M 554.0625 515.0625 C 546.14443 515.2686 538.56094 518.69687 531.375 521.78125 C 521.825 526.66875 512.31875 534.20625 509.78125 545.15625 C 512.33125 542.51875 514.7625 539.78125 517.375 537.21875 C 517.625 541.79375 517.8625 546.41875 519.1875 550.84375 C 522.775 559.31875 533.0375 563.8375 541.8125 561.75 C 549.2 559.55 555.15625 554.3375 561.28125 549.875 C 567.86875 544.0625 573.7875 534.23125 569.4375 525.46875 C 566.8625 520.80625 562.19375 517.4125 557.46875 515.1875 C 556.32344 515.075 555.19365 515.03306 554.0625 515.0625 z M 557.15625 522.46875 C 559.028 522.41995 560.90625 522.66406 562.75 523.375 C 567.4 524.575 568.975 530.1625 568 534.375 C 567.2875 539.775 561.98125 542.64375 560.21875 547.59375 C 553.78125 548.93125 549.3375 543.4125 546.5625 538.4375 C 544.275 534.45 545.05625 529.71875 545.03125 525.34375 C 548.92422 524.12344 553.0384 522.5761 557.15625 522.46875 z "
+     transform="scale(0.8,0.8)"
+     id="path4571" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3130)"
+     inkscape:connector-curvature="0"
+     d="m 302.27,443.24 c 2.79,-0.48 6.77,-0.9 8.07,2.34 2.66,3.85 -2.85,9.22 -6.72,6.87 -3.59,-1.39 -5.27,-7.18 -1.35,-9.21 z"
+     id="path4577" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3126)"
+     inkscape:connector-curvature="0"
+     d="m 331.07,443.17 c 2.73,-0.47 6.13,-0.56 7.78,2.13 0.88,3.07 -1.19,6.32 -4.06,7.42 -3.83,1.64 -8.6,-3.56 -6.12,-7.15 0.52,-1.02 1.31,-1.97 2.4,-2.4 z"
+     id="path4579" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3122)"
+     inkscape:connector-curvature="0"
+     d="m 301.72,445.35 c 2.4,0.79 3.73,2.78 3.61,5.32 -2.49,-0.66 -3.08,-3.17 -3.61,-5.32 z"
+     id="path4581" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3118)"
+     inkscape:connector-curvature="0"
+     d="m 334.76,450.49 c -2.63,-1.61 0.63,-4.59 2.53,-5.15 -0.55,1.83 -0.96,3.87 -2.53,5.15 z"
+     id="path4583" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3114)"
+     inkscape:connector-curvature="0"
+     d="m 383.07,446.24 c -3.96,4.72 -8.69,8.91 -14.25,11.64 4.01,-4.7 9.01,-8.43 14.25,-11.64 z"
+     id="path4585" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3110)"
+     inkscape:connector-curvature="0"
+     d="m 257.94,447.81 c 4.74,2.54 8.87,6.12 12.19,10.32 -4.68,-2.59 -9.09,-5.89 -12.19,-10.32 z"
+     id="path4587" />
+  <path
+     style="fill:#fefefe;filter:url(#filter3106)"
+     inkscape:connector-curvature="0"
+     d="m 319,462.17 c 2.88,-1.78 5.72,-3.91 9.15,-4.47 3.91,0.79 7.69,2.26 11.01,4.5 0.04,3.27 -1.62,6.1 -3.26,8.8 -5.63,0.03 -11.27,0.02 -16.9,0 0,-2.95 0,-5.89 0,-8.83 z"
+     id="path4589" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3102)"
+     inkscape:connector-curvature="0"
+     d="m 222.14,477.98 c 0.68,0 2.04,-0.01 2.73,-0.01 1.06,1.64 2.01,3.34 2.82,5.13 -1.57,0.35 -3.14,0.68 -4.71,1.03 -2.24,-1.56 -2.28,-3.99 -0.84,-6.15 z"
+     id="path4593" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3098)"
+     inkscape:connector-curvature="0"
+     d="m 414.15,477.98 c 0.66,0 1.98,0.01 2.64,0.02 0.34,0.49 1.02,1.48 1.36,1.97 -0.15,1.45 0.08,3.15 -1.36,4.05 -1.75,0.16 -3.43,-0.4 -4.98,-1.14 0.83,-1.62 1.55,-3.27 2.34,-4.9 z"
+     id="path4595" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3094)"
+     inkscape:connector-curvature="0"
+     d="m 224.29,489.07 c 2.15,-3.98 7.01,-3.16 10.76,-2.9 -3.21,2.08 -6.99,2.83 -10.76,2.9 z"
+     id="path4597" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3090)"
+     inkscape:connector-curvature="0"
+     d="m 404.48,486.09 c 3.59,-0.2 8.21,-0.85 10.21,2.98 -3.55,-0.26 -7.46,-0.4 -10.21,-2.98 z"
+     id="path4599" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3086)"
+     inkscape:connector-curvature="0"
+     d="m 214.92,487.77 c 2.78,-1.27 5.9,-0.71 8.85,-0.7 -1.67,2.76 -5.06,2.68 -7.86,3.15 -0.25,-0.61 -0.74,-1.83 -0.99,-2.45 z"
+     id="path4601" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3082)"
+     inkscape:connector-curvature="0"
+     d="m 415.31,487.07 c 3.14,0.03 6.96,-1.03 9.37,1.64 -2.87,2.18 -7.45,1.41 -9.37,-1.64 z"
+     id="path4603" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3078)"
+     inkscape:connector-curvature="0"
+     d="m 306.79,506.67 c 4.94,3.71 9.29,8.17 12.82,13.24 3.22,-5.24 7.74,-9.48 12.56,-13.22 -1.4,7.71 -3.25,15.42 -3.17,23.32 0.12,7.05 -0.54,14.25 1.36,21.14 1.7,7.46 6.85,13.97 6.73,21.87 0.24,7.75 -0.02,16.12 -4.31,22.88 -2.67,2.19 -6.62,0.77 -9.81,1.17 -5.25,-0.12 -10.52,0.26 -15.74,-0.27 -3.38,-3.2 -4.13,-8.25 -4.93,-12.64 -0.62,-7 -1.16,-14.44 1.8,-21.02 2.99,-6.67 5.58,-13.7 5.85,-21.08 0.11,-4.34 0.02,-8.69 0.05,-13.03 0.1,-7.59 -2.31,-14.88 -3.21,-22.36 z"
+     id="path4605" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3074)"
+     inkscape:connector-curvature="0"
+     d="m 213.44,514.33 c 0.98,-2.62 2.41,-5.26 5.36,-5.97 0.54,1.91 1.06,3.83 1.52,5.77 -2.27,0.45 -4.59,0.58 -6.88,0.2 z"
+     id="path4607" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3070)"
+     inkscape:connector-curvature="0"
+     d="m 420.19,508.38 c 2.94,0.72 4.43,3.33 5.34,5.99 -2.23,0.31 -4.49,0.21 -6.69,-0.21 0.43,-1.93 0.89,-3.86 1.35,-5.78 z"
+     id="path4609" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3066)"
+     inkscape:connector-curvature="0"
+     d="m 220.02,517.84 c 4.73,-1.31 9.7,-1.47 14.56,-1.81 -2.92,2.67 -6.93,3.03 -10.69,3.34 -1.2,0.1 -4.58,0.75 -3.87,-1.53 z"
+     id="path4611" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3062)"
+     inkscape:connector-curvature="0"
+     d="m 404.44,516.04 c 4.82,0.35 9.8,0.39 14.44,1.82 1.29,1.7 -1.87,1.71 -2.8,1.6 -4.04,-0.4 -8.48,-0.5 -11.64,-3.42 z"
+     id="path4613" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3058)"
+     inkscape:connector-curvature="0"
+     d="m 210.25,517.05 c 2.52,-0.08 5.04,-0.08 7.57,-0.02 -1.17,1.16 -2.12,2.85 -3.87,3.17 -1.69,-0.35 -2.6,-2 -3.7,-3.15 z"
+     id="path4615" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3054)"
+     inkscape:connector-curvature="0"
+     d="m 421.25,517.04 c 2.5,-0.07 5.01,-0.07 7.52,0.01 -1.13,1.15 -2.06,2.86 -3.81,3.15 -1.71,-0.35 -2.62,-1.99 -3.71,-3.16 z"
+     id="path4617" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3050)"
+     inkscape:connector-curvature="0"
+     d="m 206.61,534.97 c 0.38,-2.11 0.13,-5.81 3.37,-5.03 1.15,1.45 0.57,3.33 0.6,5.03 2.04,0 4.09,0.02 6.13,0.14 -2.63,3.48 -6.98,1.31 -10.1,-0.14 z"
+     id="path4619" />
+  <path
+     style="fill:#9e9f9d;filter:url(#filter3046)"
+     inkscape:connector-curvature="0"
+     d="m 428.38,534.97 c 0.09,-1.67 -0.5,-3.56 0.61,-4.98 3.15,-0.95 3.1,2.94 3.38,4.99 -3.13,1.46 -7.46,3.59 -10.09,0.13 2.03,-0.12 4.07,-0.14 6.1,-0.14 z"
+     id="path4621" />
+  <path
+     style="fill:#0d0906;filter:url(#filter3042)"
+     inkscape:connector-curvature="0"
+     d="m 302,606.24 c 0.08,-3.7 2.95,-6.44 5.92,-8.21 4.06,-0.26 8.03,1.03 12.09,0.78 3.94,-0.25 7.83,-0.94 11.78,-0.93 2.19,2.51 4.13,5.23 5.83,8.1 -4.67,1.07 -9.37,2.02 -14.06,3.02 l -8.17,0 c -4.48,-0.86 -8.97,-1.66 -13.39,-2.76 z"
+     id="path4623" />
+</svg>
